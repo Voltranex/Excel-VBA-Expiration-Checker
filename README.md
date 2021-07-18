@@ -1,4 +1,4 @@
-# Excel-VBA-Expiridation-Checker
+# Excel VBA Expiration Checker
 Excel VBA Macro for the expiration date check
 
 ![Ashutosh's github activity graph](https://media.discordapp.net/attachments/861530555715682304/866336095431557120/unknown.png)
